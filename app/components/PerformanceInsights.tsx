@@ -1,6 +1,6 @@
 'use client';
 
-import { TrendingUp, Award, Target, Zap } from 'lucide-react';
+import { TrendingUp, Award, Target, Zap, Eye, MousePointer } from 'lucide-react';
 
 interface PerformanceInsightsProps {
   variations: Array<{
