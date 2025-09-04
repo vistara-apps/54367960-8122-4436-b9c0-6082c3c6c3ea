@@ -1,0 +1,14 @@
+{
+  "name": "AdSpark Remix",
+  "description": "AdSpark Remix is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://54367960-8122-4436-b9c0-6082c3c6c3ea.vistara.dev",
+  "properties": {
+    "app": {
+      "name": "AdSpark Remix",
+      "description": "AdSpark Remix is a Base Mini App built with Zara.",
+      "url": "https://54367960-8122-4436-b9c0-6082c3c6c3ea.vistara.dev",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
